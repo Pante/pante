@@ -4,4 +4,4 @@ I'm the author and maintainer of [Chimera](https://github.com/Pante/Chimera), a 
 
 ![Pante's profile views](https://komarev.com/ghpvc/?username=pante)
 
-![Pante's stats](https://github-readme-stats.vercel.app/api?username=pante&show_icons=true)
+![Pante's stats](https://github-readme-stats.vercel.app/api?username=pante&show_icons=true&theme=tokyonight)
