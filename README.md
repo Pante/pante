@@ -2,7 +2,7 @@
 
 I'm one of the co-founders of [Forus Labs](https://github.com/forus-labs), having previously worked on [TimeBloc](https://timebloc.app/) until its acquisition. I'm working currently on [Essential](https://essential.app/).
 
-I'm the author and maintainer of:
+Open Source Projects:
 * [Chimera](https://github.com/Pante/Chimera), a static code generation tool for generating commands in Spigot plugins.
 * [Elementary](https://github.com/Pante/Elementary), a suite of JUnit 5 extensions for testing annotation processors.
 * [Sugar](https://github.com/forus-labs/cauldron), general utilities to enhance programming in Dart.
