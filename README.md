@@ -7,6 +7,6 @@ Open Source Projects:
 * [Chimera](https://github.com/Pante/Chimera), a static code generation tool for generating commands in Spigot plugins.
 * [Elementary](https://github.com/Pante/Elementary), a suite of JUnit 5 extensions for testing annotation processors.
 
-I also occasionally publish articles on [Medium](https://matthiasngeo.medium.com).
+I also occasionally write articles on [Medium](https://matthiasngeo.medium.com).
 
 ![Pante's stats](https://github-readme-stats.vercel.app/api?username=pante&show_icons=true&theme=tokyonight)
