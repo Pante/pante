@@ -1,6 +1,6 @@
 ## Just your friendly neighbourhood software engineer :eyes:
 
-I'm one of the co-founders of [Forus Labs](https://github.com/forus-labs), having previously created & worked on [TimeBloc](https://timebloc.app/) until the application's acquisition, and [Essential](https://essential.app/). Currently, I'm working on Amtive while studying at NTU.
+I'm one of the co-founders of [Forus Labs](https://github.com/forus-labs), having previously created & worked on [TimeBloc](https://timebloc.app/) until the application's acquisition, and [Essential](https://essential.app/). 'm working currently on Amtive while studying at NTU.
 
 Open Source Projects:
 * [Sugar](https://github.com/forus-labs/cauldron), an extension to Dart's standard library, including datetimes & timezones.
