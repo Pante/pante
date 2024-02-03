@@ -5,7 +5,7 @@ I'm one of the co-founders of [Forus Labs](https://github.com/forus-labs), havin
 Open Source Projects:
 * [Sugar](https://github.com/forus-labs/cauldron), an extension to Dart's standard library, including datetimes & timezones.
 * [Chimera](https://github.com/Pante/Chimera), a static code generation tool for generating commands in Spigot plugins.
-* [Elementary](https://github.com/Pante/Elementary), a suite of JUnit 5 extensions for testing annotation processors.
+* [Elementary](https://github.com/Pante/Elementary), JUnit 5 extensions for testing annotation processors.
 * [Readling List](https://github.com/Pante/reading-list), a curated list of blogs/articles/papers.
 
 I also occasionally write articles on [Medium](https://matthiasngeo.medium.com).
