@@ -2,7 +2,7 @@
 
 I'm one of the co-founders of [Duobase](https://github.com/duobaseio), currently maintaining [Forui](https://github.com/forus-labs/forui), a minimalistic Flutter UI library.
 
-I previously co-founded [Forus Labs](https://github.com/forus-labs), having previously created & worked on [TimeBloc](https://timebloc.app/) until the application's acquisition, and [Essential](https://essential.app/), and did my B.Comp.) at NTU.
+I previously co-founded [Forus Labs](https://github.com/forus-labs), having previously created & worked on [TimeBloc](https://timebloc.app/) until the application's acquisition, and [Essential](https://essential.app/), and did my B.Comp. at NTU.
 
 Open Source Projects:
 * [Forui](https://github.com/duobaseio/forui), a minimalistic Flutter UI library.
